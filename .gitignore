@@ -1,0 +1,12 @@
+# ignore build artifacts
+/target
+
+# ignore vscode workspace settings
+.vscode/
+
+# ignore rust test results
+test-results/
+
+# ignore rust analyzer files
+rust-analyzer.json
+
